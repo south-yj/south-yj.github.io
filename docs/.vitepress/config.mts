@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/main/',
   title: "South YJ",
   description: "South YJ",
   themeConfig: {
